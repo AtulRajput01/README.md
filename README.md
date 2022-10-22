@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/@amazing_atul" target="blank"><img src="https://img.shields.io/twitter/follow/@amazing_atul?logo=twitter&style=for-the-badge" alt="@amazing_atul" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud tools.**
+- 🌱 I’m currently learning *Cloud tools.**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
