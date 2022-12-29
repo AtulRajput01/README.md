@@ -2,7 +2,7 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=AtulRajput01&theme=react-dark&hide_border=true&area=true)
 
-<img align="right" height="250px" alt="GIF" src="https://api.daily.dev/devcards/dce00e048ea44002aab63d9733ee09f5.png?r=kdk" padding="5px" />
+<img align="right" height="250px" alt="GIF" src="https://github.com/AtulRajput01/Atulrajput01.github.io/blob/main/port/atul.jpeg?r=kdk" padding="5px" />
 
 - 🔭 I’m currently working on developing coding skills 
 - 🌱 I’m currently focusing on DevOps
