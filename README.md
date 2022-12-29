@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on developing coding skills 
 - 🌱 I’m currently focusing on DevOps
 - 👯 I’m looking to collaborate on Github
-- 🥅 2021 Goals: Be a better human 
 - 💬 Ask me about anything
 - 📬 How to reach me: atulrajput9690@gmail.com
 - 🧗 I try to: Go beyond and push the bounds
