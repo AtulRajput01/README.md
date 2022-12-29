@@ -27,7 +27,7 @@
 
 
 
-<p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=AtulRajput01&theme=radical" alt="Atul Rajput" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=aniket762&count_private=true&theme=radical"/></p>
+<p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=AtulRajput01&theme=radical" alt="Atul Rajput" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=AtulRajput01&count_private=true&theme=radical"/></p>
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
